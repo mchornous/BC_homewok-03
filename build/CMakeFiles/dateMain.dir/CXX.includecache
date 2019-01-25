@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/date.h
+iostream
+-
+
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/03/src/date.cpp
+date.h
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/03/src/date.h
+iostream
+-
+
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/03/src/dateMain.cpp
+iostream
+-
+date.h
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/03/src/date.h
+

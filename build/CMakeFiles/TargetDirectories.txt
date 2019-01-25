@@ -1,0 +1,3 @@
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/03/build/CMakeFiles/edit_cache.dir
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/03/build/CMakeFiles/rebuild_cache.dir
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/03/build/CMakeFiles/dateMain.dir

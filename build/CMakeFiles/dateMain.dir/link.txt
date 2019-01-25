@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -Wpedantic -Wshadow -Wundef -Wno-missing-field-initializers   CMakeFiles/dateMain.dir/src/date.cpp.o CMakeFiles/dateMain.dir/src/dateMain.cpp.o  -o dateMain -rdynamic -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
